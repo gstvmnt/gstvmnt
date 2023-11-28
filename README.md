@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Gustavo Monte! 👨🏻‍💻
 
-- 🔭 Atualmente trabalhando com automações de dados e rotinas sustentáveis
+- 🔭 Atualmente trabalhando com automações de dados e rotinas sustentáveis de processos financeiros
 - 🌱 Estudando Java
 - 😄 Pronomes: Ele/Dele
 
