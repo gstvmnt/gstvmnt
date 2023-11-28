@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá! Eu sou o Gustavo Monte! 👨🏻‍💻
 
-<!--
-**gstvmnt/gstvmnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalhando com automações de dados e rotinas sustentáveis
+- 🌱 Estudando Java
+- 😄 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/gstvmnt">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gstvmnt&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstvmnt&layout=compact&langs_count=16&theme=material-palenight"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img aling="center"  alt="C"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+</div>
+
