@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo Monte! 👨🏻‍💻
+## Oi! Eu sou o Gustavo Monte! 👨🏻‍💻
 
 - 🔭 Atualmente trabalhando com automações de dados e rotinas sustentáveis
 - 🌱 Estudando Java
