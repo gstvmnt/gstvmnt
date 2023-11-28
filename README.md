@@ -29,5 +29,5 @@
   
 </div>
 
-![snake gif](https://github.com/gstvmnt/gstvmnt/blob/output/github-contribution-grid-snake.gif)
+
 
