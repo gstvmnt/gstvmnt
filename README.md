@@ -1,7 +1,8 @@
 ## Oi! Eu sou o Gustavo Monte! 👨🏻‍💻
 
 - 🔭 Atualmente trabalhando com automações de dados e rotinas sustentáveis de processos financeiros
-- 🌱 Estudando Java
+- 🌱 Estudando: Java
+- 🔎 Curiosidade: Nas horas livres gosto de tocar piano
 - 😄 Pronomes: Ele/Dele
 
 
