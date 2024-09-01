@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Gustavo Monte! 👨🏻‍💻
 
 - 🔭 Atualmente trabalhando com automações de dados e rotinas sustentáveis de processos financeiros
-- 🌱 Estudando: Python WEB (Flask, Django)
+- 🌱 Estudando: ETL, PySpark, Airflow, Python WEB (Flask, Django)
 - 🔎 Curiosidade: Nas horas livres gosto de tocar piano e ler livros
 - 😄 Pronomes: Ele/Dele
 
